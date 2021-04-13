@@ -1,0 +1,6 @@
+[submodule "first-submodule"]
+	path = first-submodule
+	url = https://github.com/montacerdk/first-submodule.git
+[submodule "second-submodule"]
+	path = second-submodule
+	url = https://github.com/montacerdk/second-submodule.git
